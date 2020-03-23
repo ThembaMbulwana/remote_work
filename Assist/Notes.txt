@@ -1,0 +1,2 @@
+This folder will be used to assist anyone how ask for help.
+Will use this folder to clone or save fellow cohorts code.
